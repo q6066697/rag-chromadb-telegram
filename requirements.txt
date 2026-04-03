@@ -1,0 +1,14 @@
+# Python 3.10+ рекомендуется
+# Установка: pip install -r requirements.txt
+
+# OpenAI API: LLM и эмбеддинги
+openai>=1.12.0
+
+# Локальное векторное хранилище
+chromadb>=0.4.22
+
+# Переменные окружения из .env
+python-dotenv>=1.0.0
+
+# Опционально: режим Telegram-бота
+python-telegram-bot>=20.0
